@@ -15,3 +15,5 @@ HW8: https://github.com/chillMLguy/ML24-25L/blob/main/HW8.ipynb
 HW9: https://github.com/chillMLguy/ML24-25L/blob/main/HW9.ipynb
 
 HW11: https://github.com/chillMLguy/ML24-25L/blob/main/prd11.ipynb
+
+HW13: https://github.com/chillMLguy/ML24-25L/blob/main/prd13.ipynb
